@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const Center(child: Text("Hello Brilliant")),
+      home: const Center(child: Text("Hello Brilliant!!")),
     );
   }
 }
